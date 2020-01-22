@@ -23,6 +23,24 @@
       "img": "Images/laptop.jpg",
       "rating": 3,
       "isDiscontinued":false
+    },
+	{
+      "_id":123901239413,
+      "pdtName": "Samsung MobilePhone",
+      "pdtPrice": 100000,
+      "pdtDescription": "Samsung MobilePhone",
+      "img": "Images/mobile.jpg",
+      "rating": 3,
+      "isDiscontinued":false
+    },
+	{
+      "_id":123901239414,
+      "pdtName": "powerbank",
+      "pdtPrice": 5000,
+      "pdtDescription": "powerbank",
+      "img": "Images/powerbank.jpg",
+      "rating": 3,
+      "isDiscontinued":false
     }
   ]
 }
